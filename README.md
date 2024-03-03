@@ -14,7 +14,7 @@ Portfolio of data science and computer science projects, both personal and from 
 * Final project involved prediction of wine review score (regression) testing regularized Linear Regression, Random Forest, and Neural Network
     * Used pre-trained transformers for sentiment analysis on unstructured text
 
-## CS_504_OOP
+## cs_504_OOP
 * CS 504 - Introduction to Software Engineering, focusing on Object Oriented Programming (OOP) design patterns using Java
 
 ## cs_613_Machine_Learning
