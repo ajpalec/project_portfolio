@@ -21,7 +21,3 @@ Portfolio of data science and computer science projects, both personal and from 
 * CS 613 - Machine Learning, focusing on from-scratch implementations of traditional machine learning algorithms using Python and Numpy
 * Assignments involved implementations of Dimensionality Reduction (Principal Component Analysis), Linear Regression, Logistic Regression and Gradient Descent, Decision Trees, Naive Bayes and Statistical Inference
 * Final project involved predicting marketing phone call success (binary classification) using Logistic Regression, Naive Bayes, and Random Forest. Report included.
-
-## cs_615_Deep_Learning
-* CS 615 - Deep Learning, focusing on from-scratch implementations of deep learning algorithms using Python and Numpy
-* Assignments involved creating neural network object oriented implementations of neural network layers (Input, Fully Connected, Convolutional, Max Pooling, Flattening), Activation Functions (Linear, ReLU, Logistic Sigmoid, Tanh, Softmax), and Loss Functions (MSE, Log Loss, Cross Entropy Loss)
